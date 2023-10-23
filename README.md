@@ -1,2 +1,2 @@
-# akkarudp
-Akka.Net  RUDP Server
+# akka server
+Akka.Net Server
